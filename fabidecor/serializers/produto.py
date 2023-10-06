@@ -5,7 +5,6 @@ from uploader.models import Image
 from uploader.serializers import ImageSerializer
 
 
-
 class ProdutoSerializer(ModelSerializer):
     class Meta:
         model = Produto

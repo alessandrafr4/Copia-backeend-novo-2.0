@@ -5,7 +5,7 @@ description = ""
 authors = [
     {name = "y",email = "alessandralelehfr495@gmail.com"},
     {name = "alessandrafr4",email = "alessandralelehfr495@gmail.com"},
-    {name = "alessandrafr4",email = "1"},
+
 ]
 dependencies = [
     "django>=4.2.5",
@@ -16,8 +16,11 @@ dependencies = [
     "python-magic>=0.4.27",
     "Pillow>=10.0.1",
     "drf-spectacular>=0.26.4",
+    "python-dotenv>=1.0.0",
+    "netifaces>=0.11.0",
 ]
 requires-python = ">=3.10"
 readme = "README.md"
 license = {text = "1"}
+
 
