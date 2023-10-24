@@ -1,0 +1,1679 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2023-10-06T15:42:13.211Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "( - be4b77da-b05f-47d2-adad-b8ed73cc37d0)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2023-10-06T15:46:26.262Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "3",
+    "object_repr": "Kit Completo Casamento (11)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2023-10-06T15:47:11.887Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "1",
+    "object_repr": "sla (12)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Nome\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2023-10-06T15:49:02.913Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "3",
+    "object_repr": "Kit Completo Casamento (11)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2023-10-06T15:49:06.705Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "2",
+    "object_repr": "as (9)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2023-10-06T15:49:10.185Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "1",
+    "object_repr": "sla (12)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2023-10-06T15:49:41.010Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "4",
+    "object_repr": "Kit Casamento completo (18)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2023-10-06T15:50:42.065Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "5",
+    "object_repr": "Kit Aniversario Completo (27)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2023-10-06T15:52:40.409Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "4",
+    "object_repr": "(Kit Formatura completo - 4620d9fa-c915-4938-aea7-d8b1f6caff84)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2023-10-06T15:52:41.980Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "6",
+    "object_repr": "Kit formatura Completo (12)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2023-10-06T16:02:51.388Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "4",
+    "object_repr": "Chá De Bebe",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2023-10-06T16:03:03.054Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "5",
+    "object_repr": "Safari",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2023-10-06T16:03:20.535Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "5",
+    "object_repr": "( - 71825331-a749-41f8-9cc0-821a26c3ea2b)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2023-10-06T16:03:23.303Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "7",
+    "object_repr": "Kit Chá de bebe (10)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2023-10-06T16:21:05.070Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "10",
+    "object_repr": "Kit Festa Tematica (21)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2023-10-06T16:21:25.081Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "8",
+    "object_repr": "Kit Despedida (21)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Nome\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2023-10-06T16:21:48.697Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "7",
+    "object_repr": "Kit Chá De Bebê (10)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Nome\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2023-10-06T16:22:06.776Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "6",
+    "object_repr": "Kit formatura Completo (12)",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2023-10-06T16:22:10.789Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "5",
+    "object_repr": "Kit Aniversario Completo (27)",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2023-10-06T16:22:19.839Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "4",
+    "object_repr": "Kit Casamento Complet (18)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Nome\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2023-10-06T16:22:24.615Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "4",
+    "object_repr": "Kit Casamento (18)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Nome\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2023-10-06T16:22:30.061Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "5",
+    "object_repr": "Kit Aniversario (27)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Nome\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2023-10-06T16:22:34.788Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "6",
+    "object_repr": "Kit formatura (12)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Nome\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2023-10-06T16:22:44.426Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "6",
+    "object_repr": "Kit Formatura (12)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Nome\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 25,
+  "fields": {
+    "action_time": "2023-10-06T16:22:47.425Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "7",
+    "object_repr": "Kit Chá De Bebê (10)",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 26,
+  "fields": {
+    "action_time": "2023-10-06T16:24:10.319Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "11",
+    "object_repr": "Kit Festa Halloweb (21)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 27,
+  "fields": {
+    "action_time": "2023-10-06T16:28:04.184Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "20",
+    "object_repr": "Kit Réveillon (21)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Nome\", \"Categoria\", \"Tema\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 28,
+  "fields": {
+    "action_time": "2023-10-06T16:28:37.645Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "15",
+    "object_repr": "Kit Pequenique (21)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Nome\", \"Categoria\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 29,
+  "fields": {
+    "action_time": "2023-10-06T16:29:27.862Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "5",
+    "object_repr": "Kit Aniversario (27)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Categoria\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 30,
+  "fields": {
+    "action_time": "2023-10-09T12:57:10.410Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "7",
+    "object_repr": "( - 93586d2d-6575-4eb6-8812-7563d74be1ca)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 31,
+  "fields": {
+    "action_time": "2023-10-09T12:57:12.253Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "5",
+    "object_repr": "Kit Aniversario (27)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Capa\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 32,
+  "fields": {
+    "action_time": "2023-10-09T12:58:27.789Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "8",
+    "object_repr": "( - 69f178d0-9713-492e-a28e-95df652e8dd3)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 33,
+  "fields": {
+    "action_time": "2023-10-09T12:58:29.662Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "8",
+    "object_repr": "Kit Despedida (21)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Capa\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 34,
+  "fields": {
+    "action_time": "2023-10-09T12:59:36.783Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "9",
+    "object_repr": "( - 4446df9c-42d7-41bd-beef-d44c7bc93365)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 35,
+  "fields": {
+    "action_time": "2023-10-09T12:59:38.698Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "9",
+    "object_repr": "Kit Festa Tematica (21)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Capa\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 36,
+  "fields": {
+    "action_time": "2023-10-09T13:00:17.541Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "10",
+    "object_repr": "( - e6d6fbe5-84bc-45c9-9db1-5dad2ba0fdba)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 37,
+  "fields": {
+    "action_time": "2023-10-09T13:00:18.721Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "12",
+    "object_repr": "Kit Festa Hallowen (21)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Capa\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 38,
+  "fields": {
+    "action_time": "2023-10-09T13:01:02.433Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "11",
+    "object_repr": "( - 28aeeaac-db25-4bec-a0d4-72117dd22b21)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 39,
+  "fields": {
+    "action_time": "2023-10-09T13:01:13.137Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "13",
+    "object_repr": "Kit Dia Dos Namorados (21)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Nome\", \"Capa\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 40,
+  "fields": {
+    "action_time": "2023-10-09T13:02:42.453Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "21",
+    "object_repr": "teste (-1)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 41,
+  "fields": {
+    "action_time": "2023-10-09T13:03:27.322Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "20",
+    "object_repr": "Kit Réveillon (21)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 42,
+  "fields": {
+    "action_time": "2023-10-09T13:03:27.406Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "19",
+    "object_repr": "Kit Festa Noivado (21)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 43,
+  "fields": {
+    "action_time": "2023-10-09T13:03:27.481Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "18",
+    "object_repr": "Kit Batizado (21)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 44,
+  "fields": {
+    "action_time": "2023-10-09T13:03:27.556Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "17",
+    "object_repr": "Kit Festa Tematica (21)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 45,
+  "fields": {
+    "action_time": "2023-10-09T13:03:27.627Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "16",
+    "object_repr": "Kit Festa Junina (21)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 46,
+  "fields": {
+    "action_time": "2023-10-09T13:03:27.702Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "15",
+    "object_repr": "Kit Pequenique (21)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 47,
+  "fields": {
+    "action_time": "2023-10-09T13:03:27.777Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "14",
+    "object_repr": "Kit Esportivo (21)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 48,
+  "fields": {
+    "action_time": "2023-10-09T13:03:27.852Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "13",
+    "object_repr": "Kit Dia Dos Namorados (21)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 49,
+  "fields": {
+    "action_time": "2023-10-09T13:03:27.927Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "12",
+    "object_repr": "Kit Festa Hallowen (21)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 50,
+  "fields": {
+    "action_time": "2023-10-09T13:03:28.070Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "9",
+    "object_repr": "Kit Festa Tematica (21)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 51,
+  "fields": {
+    "action_time": "2023-10-09T13:03:28.264Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "8",
+    "object_repr": "Kit Despedida (21)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 52,
+  "fields": {
+    "action_time": "2023-10-09T13:03:28.373Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "7",
+    "object_repr": "Kit Chá De Bebê (10)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 53,
+  "fields": {
+    "action_time": "2023-10-09T13:03:28.456Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "6",
+    "object_repr": "Kit Formatura (12)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 54,
+  "fields": {
+    "action_time": "2023-10-09T13:03:28.540Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "5",
+    "object_repr": "Kit Aniversario (27)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 55,
+  "fields": {
+    "action_time": "2023-10-09T13:03:28.615Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "4",
+    "object_repr": "Kit Casamento (18)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 4,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 4,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 4,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 4,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 5,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 5,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 5,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 5,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add Usuário",
+    "content_type": 6,
+    "codename": "add_usuario"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change Usuário",
+    "content_type": 6,
+    "codename": "change_usuario"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete Usuário",
+    "content_type": 6,
+    "codename": "delete_usuario"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view Usuário",
+    "content_type": 6,
+    "codename": "view_usuario"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add document",
+    "content_type": 7,
+    "codename": "add_document"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change document",
+    "content_type": 7,
+    "codename": "change_document"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete document",
+    "content_type": 7,
+    "codename": "delete_document"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view document",
+    "content_type": 7,
+    "codename": "view_document"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add image",
+    "content_type": 8,
+    "codename": "add_image"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change image",
+    "content_type": 8,
+    "codename": "change_image"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete image",
+    "content_type": 8,
+    "codename": "delete_image"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view image",
+    "content_type": 8,
+    "codename": "view_image"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add categoria",
+    "content_type": 9,
+    "codename": "add_categoria"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change categoria",
+    "content_type": 9,
+    "codename": "change_categoria"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete categoria",
+    "content_type": 9,
+    "codename": "delete_categoria"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view categoria",
+    "content_type": 9,
+    "codename": "view_categoria"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add produto",
+    "content_type": 10,
+    "codename": "add_produto"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change produto",
+    "content_type": 10,
+    "codename": "change_produto"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete produto",
+    "content_type": 10,
+    "codename": "delete_produto"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view produto",
+    "content_type": 10,
+    "codename": "view_produto"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 41,
+  "fields": {
+    "name": "Can add Tema",
+    "content_type": 11,
+    "codename": "add_tema"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 42,
+  "fields": {
+    "name": "Can change Tema",
+    "content_type": 11,
+    "codename": "change_tema"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 43,
+  "fields": {
+    "name": "Can delete Tema",
+    "content_type": 11,
+    "codename": "delete_tema"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 44,
+  "fields": {
+    "name": "Can view Tema",
+    "content_type": 11,
+    "codename": "view_tema"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 45,
+  "fields": {
+    "name": "Can add compra",
+    "content_type": 12,
+    "codename": "add_compra"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 46,
+  "fields": {
+    "name": "Can change compra",
+    "content_type": 12,
+    "codename": "change_compra"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 47,
+  "fields": {
+    "name": "Can delete compra",
+    "content_type": 12,
+    "codename": "delete_compra"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 48,
+  "fields": {
+    "name": "Can view compra",
+    "content_type": 12,
+    "codename": "view_compra"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "usuario",
+    "model": "usuario"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "uploader",
+    "model": "document"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "uploader",
+    "model": "image"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 9,
+  "fields": {
+    "app_label": "fabidecor",
+    "model": "categoria"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 10,
+  "fields": {
+    "app_label": "fabidecor",
+    "model": "produto"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 11,
+  "fields": {
+    "app_label": "fabidecor",
+    "model": "tema"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 12,
+  "fields": {
+    "app_label": "fabidecor",
+    "model": "compra"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "rasxevcba6njh5aoo2it0rv5st6u49r8",
+  "fields": {
+    "session_data": ".eJxVjMsOgjAQRf-la9OUdiiDS_d-QzOPYlEDCYWV8d-VhIVu7znnvkyibS1pq3lJo5qzaczpd2OSR552oHeabrOVeVqXke2u2INWe501Py-H-3dQqJZvPaBGCeKcRuw5cKCWOgD23mvwLaLzuQVSjOCAO1RsZOghNiDsekHz_gDUeTdC:1qppoc:BUdFCacyhZ7-hts1flidYS8pJwoSrIZFvQGCWsmE-JE",
+    "expire_date": "2023-10-23T12:56:54.436Z"
+  }
+},
+{
+  "model": "usuario.usuario",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$pdetot4dmBUDH9vwFCbEfT$+ImfhjdBrWz2NCs+9Hw9LYgF/bktEhPBs/sVPYitUU8=",
+    "last_login": "2023-10-09T12:56:54.371Z",
+    "is_superuser": true,
+    "first_name": "",
+    "last_name": "",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2023-10-06T15:39:58.938Z",
+    "email": "fabidecor@gmail.com",
+    "cpf": null,
+    "telefone": null,
+    "data_nascimento": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "usuario.usuario",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$Xo4JAriWSUlRjaW9yJv3ry$QQ0oItE/ZKAibznwXswpMRKacOWp1kUZD834ci6Oc8M=",
+    "last_login": null,
+    "is_superuser": true,
+    "first_name": "",
+    "last_name": "",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2023-10-10T17:57:33.378Z",
+    "email": "fabidecor1@gmail.com",
+    "cpf": null,
+    "telefone": null,
+    "data_nascimento": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "usuario.usuario",
+  "pk": 3,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$GuvcCELnsVtGrf8arN3R6r$/pHmDkt6IvvJhPuYIQpAkKO6uSdEimilczUOENf0oBk=",
+    "last_login": null,
+    "is_superuser": true,
+    "first_name": "",
+    "last_name": "",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2023-10-10T18:08:49.730Z",
+    "email": "Fabidecor@gmail.com",
+    "cpf": null,
+    "telefone": null,
+    "data_nascimento": null,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "uploader.image",
+  "pk": 1,
+  "fields": {
+    "attachment_key": "be4b77da-b05f-47d2-adad-b8ed73cc37d0",
+    "public_id": "936dc5cd-6380-4ac9-a5de-6cdd65b6a356",
+    "file": "images/936dc5cd-6380-4ac9-a5de-6cdd65b6a356.jpg",
+    "description": "",
+    "uploaded_on": "2023-10-06T15:42:13.211Z"
+  }
+},
+{
+  "model": "uploader.image",
+  "pk": 2,
+  "fields": {
+    "attachment_key": "7b90d42b-7067-416a-b37c-288d2c72180c",
+    "public_id": "c655a1ad-115c-4317-a359-b07fe501f4d9",
+    "file": "images/c655a1ad-115c-4317-a359-b07fe501f4d9.jpg",
+    "description": "",
+    "uploaded_on": "2023-10-06T15:42:44.013Z"
+  }
+},
+{
+  "model": "uploader.image",
+  "pk": 3,
+  "fields": {
+    "attachment_key": "f89651b8-fe4a-4470-903c-c149e9a507e9",
+    "public_id": "9a609c7d-5824-415b-84df-8fd7fdde79cc",
+    "file": "images/9a609c7d-5824-415b-84df-8fd7fdde79cc.jpg",
+    "description": "",
+    "uploaded_on": "2023-10-06T15:43:30.627Z"
+  }
+},
+{
+  "model": "uploader.image",
+  "pk": 4,
+  "fields": {
+    "attachment_key": "4620d9fa-c915-4938-aea7-d8b1f6caff84",
+    "public_id": "8a467ff3-dd9f-4048-b691-0e934cd7f306",
+    "file": "images/8a467ff3-dd9f-4048-b691-0e934cd7f306.jpg",
+    "description": "Kit Formatura completo",
+    "uploaded_on": "2023-10-06T15:52:40.408Z"
+  }
+},
+{
+  "model": "uploader.image",
+  "pk": 5,
+  "fields": {
+    "attachment_key": "71825331-a749-41f8-9cc0-821a26c3ea2b",
+    "public_id": "412cbb5e-a7f1-454f-88f5-68034d3c8359",
+    "file": "images/412cbb5e-a7f1-454f-88f5-68034d3c8359.jpg",
+    "description": "",
+    "uploaded_on": "2023-10-06T16:03:20.534Z"
+  }
+},
+{
+  "model": "uploader.image",
+  "pk": 6,
+  "fields": {
+    "attachment_key": "a136399e-e21b-4a9c-a3e1-677e91c96ded",
+    "public_id": "be8b3917-c2c4-426e-975c-6756f7cc0801",
+    "file": "images/be8b3917-c2c4-426e-975c-6756f7cc0801.jpg",
+    "description": "",
+    "uploaded_on": "2023-10-06T17:28:40.967Z"
+  }
+},
+{
+  "model": "uploader.image",
+  "pk": 7,
+  "fields": {
+    "attachment_key": "93586d2d-6575-4eb6-8812-7563d74be1ca",
+    "public_id": "ab53a2c7-9c5d-4e93-a505-90b75e602a65",
+    "file": "images/ab53a2c7-9c5d-4e93-a505-90b75e602a65.jpg",
+    "description": "",
+    "uploaded_on": "2023-10-09T12:57:10.409Z"
+  }
+},
+{
+  "model": "uploader.image",
+  "pk": 8,
+  "fields": {
+    "attachment_key": "69f178d0-9713-492e-a28e-95df652e8dd3",
+    "public_id": "650537f5-adc7-4ab4-9abd-67ff6429038b",
+    "file": "images/650537f5-adc7-4ab4-9abd-67ff6429038b.jpg",
+    "description": "",
+    "uploaded_on": "2023-10-09T12:58:27.787Z"
+  }
+},
+{
+  "model": "uploader.image",
+  "pk": 9,
+  "fields": {
+    "attachment_key": "4446df9c-42d7-41bd-beef-d44c7bc93365",
+    "public_id": "04cc0dc2-df62-45b1-ae12-2d548a987352",
+    "file": "images/04cc0dc2-df62-45b1-ae12-2d548a987352",
+    "description": "",
+    "uploaded_on": "2023-10-09T12:59:36.782Z"
+  }
+},
+{
+  "model": "uploader.image",
+  "pk": 10,
+  "fields": {
+    "attachment_key": "e6d6fbe5-84bc-45c9-9db1-5dad2ba0fdba",
+    "public_id": "01629ddf-f4b2-4b96-ac0d-db5b26b5bae2",
+    "file": "images/01629ddf-f4b2-4b96-ac0d-db5b26b5bae2.jpg",
+    "description": "",
+    "uploaded_on": "2023-10-09T13:00:17.540Z"
+  }
+},
+{
+  "model": "uploader.image",
+  "pk": 11,
+  "fields": {
+    "attachment_key": "28aeeaac-db25-4bec-a0d4-72117dd22b21",
+    "public_id": "5b6388a8-784a-4c75-9b8c-a9468eb560c5",
+    "file": "images/5b6388a8-784a-4c75-9b8c-a9468eb560c5.jpg",
+    "description": "",
+    "uploaded_on": "2023-10-09T13:01:02.431Z"
+  }
+},
+{
+  "model": "fabidecor.categoria",
+  "pk": 1,
+  "fields": {
+    "descricao": "Casamento"
+  }
+},
+{
+  "model": "fabidecor.categoria",
+  "pk": 2,
+  "fields": {
+    "descricao": "Formatura"
+  }
+},
+{
+  "model": "fabidecor.categoria",
+  "pk": 3,
+  "fields": {
+    "descricao": "Aniversarios"
+  }
+},
+{
+  "model": "fabidecor.categoria",
+  "pk": 4,
+  "fields": {
+    "descricao": "Chá De Bebe"
+  }
+},
+{
+  "model": "fabidecor.categoria",
+  "pk": 5,
+  "fields": {
+    "descricao": "Batizado"
+  }
+},
+{
+  "model": "fabidecor.categoria",
+  "pk": 6,
+  "fields": {
+    "descricao": "Despedida de solteiro(a)"
+  }
+},
+{
+  "model": "fabidecor.categoria",
+  "pk": 7,
+  "fields": {
+    "descricao": "Festa de noivado"
+  }
+},
+{
+  "model": "fabidecor.categoria",
+  "pk": 8,
+  "fields": {
+    "descricao": "Festas temáticas"
+  }
+},
+{
+  "model": "fabidecor.categoria",
+  "pk": 9,
+  "fields": {
+    "descricao": "Réveillon"
+  }
+},
+{
+  "model": "fabidecor.categoria",
+  "pk": 10,
+  "fields": {
+    "descricao": "Festas de Halloween"
+  }
+},
+{
+  "model": "fabidecor.categoria",
+  "pk": 11,
+  "fields": {
+    "descricao": "Piquenique"
+  }
+},
+{
+  "model": "fabidecor.categoria",
+  "pk": 12,
+  "fields": {
+    "descricao": "Festa junina"
+  }
+},
+{
+  "model": "fabidecor.categoria",
+  "pk": 13,
+  "fields": {
+    "descricao": "Festival de música"
+  }
+},
+{
+  "model": "fabidecor.categoria",
+  "pk": 14,
+  "fields": {
+    "descricao": "Evento esportivo"
+  }
+},
+{
+  "model": "fabidecor.categoria",
+  "pk": 15,
+  "fields": {
+    "descricao": "Festa de despedida"
+  }
+},
+{
+  "model": "fabidecor.categoria",
+  "pk": 16,
+  "fields": {
+    "descricao": "Festa de empresa"
+  }
+},
+{
+  "model": "fabidecor.categoria",
+  "pk": 17,
+  "fields": {
+    "descricao": "Dia dos namorados"
+  }
+},
+{
+  "model": "fabidecor.tema",
+  "pk": 1,
+  "fields": {
+    "nome": "Ensino Médio"
+  }
+},
+{
+  "model": "fabidecor.tema",
+  "pk": 2,
+  "fields": {
+    "nome": "Vintage"
+  }
+},
+{
+  "model": "fabidecor.tema",
+  "pk": 3,
+  "fields": {
+    "nome": "Debutante"
+  }
+},
+{
+  "model": "fabidecor.tema",
+  "pk": 5,
+  "fields": {
+    "nome": "Safari"
+  }
+},
+{
+  "model": "fabidecor.tema",
+  "pk": 6,
+  "fields": {
+    "nome": "Rústico"
+  }
+},
+{
+  "model": "fabidecor.tema",
+  "pk": 7,
+  "fields": {
+    "nome": "Conto de fadas"
+  }
+},
+{
+  "model": "fabidecor.tema",
+  "pk": 8,
+  "fields": {
+    "nome": "Máscaras"
+  }
+},
+{
+  "model": "fabidecor.tema",
+  "pk": 9,
+  "fields": {
+    "nome": "Fantasias"
+  }
+},
+{
+  "model": "fabidecor.tema",
+  "pk": 10,
+  "fields": {
+    "nome": "Natureza"
+  }
+},
+{
+  "model": "fabidecor.tema",
+  "pk": 11,
+  "fields": {
+    "nome": "Clássico"
+  }
+},
+{
+  "model": "fabidecor.tema",
+  "pk": 12,
+  "fields": {
+    "nome": "Rock"
+  }
+},
+{
+  "model": "fabidecor.tema",
+  "pk": 13,
+  "fields": {
+    "nome": "Circo"
+  }
+},
+{
+  "model": "fabidecor.tema",
+  "pk": 14,
+  "fields": {
+    "nome": "Hollywood"
+  }
+},
+{
+  "model": "fabidecor.tema",
+  "pk": 15,
+  "fields": {
+    "nome": "Praia"
+  }
+},
+{
+  "model": "fabidecor.tema",
+  "pk": 16,
+  "fields": {
+    "nome": "Luau"
+  }
+},
+{
+  "model": "fabidecor.tema",
+  "pk": 17,
+  "fields": {
+    "nome": "Marvel"
+  }
+},
+{
+  "model": "fabidecor.tema",
+  "pk": 18,
+  "fields": {
+    "nome": "Disney"
+  }
+},
+{
+  "model": "fabidecor.tema",
+  "pk": 22,
+  "fields": {
+    "nome": "Debutante"
+  }
+}
+]
