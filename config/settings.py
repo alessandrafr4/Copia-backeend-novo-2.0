@@ -145,5 +145,3 @@ else:
     MEDIA_URL = f"http://{MY_IP}:19003/media/"
 
 print(MODE, MEDIA_URL, DATABASES)
-
-
